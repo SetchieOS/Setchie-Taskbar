@@ -9,7 +9,7 @@
     </a>
 </p>
 
-![](media/design/png/dtp-main-p2.png)
+![](media/design/png/Screenshot Panel.png)
 
 ### Introduction
 
