@@ -103,10 +103,7 @@ Beyond that, just about every aspect of the panel is fully customizable. From po
 
 ### Installation
 
-**To install the most recent official release:
-[Visit Dash-to-Panel at GNOME Extensions](https://extensions.gnome.org/extension/1160/dash-to-panel/)**
-
-To install a development version from source, please see the [Installation wiki page](https://github.com/home-sweet-gnome/dash-to-panel/wiki/Installation).
+For the moment you have to download the entire repository and copy it to ~/.local/share/gnome-shell/extensions
 
 ## 
 ### FAQ
