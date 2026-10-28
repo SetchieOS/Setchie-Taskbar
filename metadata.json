@@ -2,7 +2,7 @@
   "extension-id": "Setchie-Taskbar",
   "uuid": "Taskbar@Setchie",
   "name": "Setchie Taskbar",
-  "description": "Fork od DashToPanel which default theme is customized",
+  "description": "Fork of Dash-To-Panel which offers a cleaner default theme",
   "shell-version": [ "46", "47", "48", "49", "50", "51" ],
   "url": "https://github.com/home-sweet-gnome/dash-to-panel",
   "gettext-domain": "dash-to-panel",
