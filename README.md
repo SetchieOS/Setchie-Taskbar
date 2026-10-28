@@ -1,7 +1,5 @@
-<p align="left">
-  <img src="/media/design/svg/D2P_logo.svg" width="620"/>
-</p>
-<p align="left">
+<h1>Setchie Taskbar</h1>
+<p>Donating Dash-to-Panel:</p>
     <img src="/media/design/svg/GitHub_logo.svg" width="120"/>&nbsp;
     <a href="https://extensions.gnome.org/extension/1160/dash-to-panel/" style="margin-left: 20px">
         <img src="/media/design/svg/Gnome_logo.svg" width="120px"/>
