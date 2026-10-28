@@ -9,7 +9,7 @@
     </a>
 </p>
 
-![](media/design/png/Screenshot Panel.png)
+![](media/design/png/ScreenshotPanel.png)
 
 ### Introduction
 
