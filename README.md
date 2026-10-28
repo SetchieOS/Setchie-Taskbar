@@ -103,7 +103,7 @@ Beyond that, just about every aspect of the panel is fully customizable. From po
 
 ### Installation
 
-For the moment you have to download the entire repository and copy it to ~/.local/share/gnome-shell/extensions
+For the moment you have to download the entire repository as a zip, extract it and copy the folder to ~/.local/share/gnome-shell/extensions
 
 ## 
 ### FAQ
