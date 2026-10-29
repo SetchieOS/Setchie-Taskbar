@@ -8,13 +8,14 @@
     </a>
 </p>
 
-![](media/design/png/ScreenshotPanel.png)
-
 ### What does this fork do?
 
 Setchie Taskbar offers a cleaner default style.
 Nothing more.
 All the credits and Donations go to Dash to Panel
+
+Here is a screenshot of that default style:
+![](media/design/png/ScreenshotPanel.png)
 
 ### Introduction
 
