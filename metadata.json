@@ -4,8 +4,8 @@
   "name": "Setchie Taskbar",
   "description": "Fork of Dash-To-Panel which offers a cleaner default theme",
   "shell-version": [ "46", "47", "48", "49", "50", "51" ],
-  "url": "https://github.com/home-sweet-gnome/dash-to-panel",
-  "gettext-domain": "dash-to-panel",
+  "url": "https://github.com/SetchieOS/Setchie-Taskbar",
+  "gettext-domain": "Setchie-Taskbar",
   "version": 9999,
   "donations": {
       "paypal": "charlesg99"
